@@ -1,0 +1,22 @@
+id: D6BC35A1B
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-03-23T08:32:29+00:00'
+last_modified: '2022-05-30T07:49:27.175736+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '9243':
+      image_group_id: I1PD95942
+      title: ཚད་མ་ཀུན་ལས་བཏུས་པ།
+      total_pages: 1198
+      order: 97
+      base_file: 9243.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
